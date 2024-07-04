@@ -11,7 +11,7 @@ Welcome to the Responsive-Website-with-vanilla-Locomotive-Scroll! This repositor
 
 ## Demo
 
-Check out the live demo [https://moinfiction.netlify.app/](#) to see the smooth scrolling and parallax effects in action.
+Check out the live demo [here](https://moinfiction.netlify.app/) to see the smooth scrolling and parallax effects in action.
 
 ## Installation
 
